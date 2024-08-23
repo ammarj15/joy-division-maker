@@ -13,12 +13,12 @@ will be available on localhost:3000
 
 #Backend
 
-python -m venv env
+python -m venv env (depending on version my have to run 'python3 -m venv env')
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 
 pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+python manage.py migrate (depending on version my have to run 'python3 manage.py migrate')
+python manage.py runserver (depending on version my have to run 'python3 manage.py runserver')
 
 The backend will be available at http://localhost:8000
 
