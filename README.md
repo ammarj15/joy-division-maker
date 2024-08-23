@@ -2,8 +2,7 @@
 
 This project consists of a frontend React application and a backend Django application.
 
-This project is a submission for kangacooks assesment of creating a website in react with a django backend with two apis. I decided to create a simple generative art project recreating joy divisions iconic album cover. Usually something like this would be drawn using Javascript but as a challenge to myself and to meet the requirments I decided to create the generative algorithim on the backend and utilize the api to create the drawing and save/display past generations. Because this funcitonality is not usually done in Python I was only able to create a rough imitation without adding an array of dependenies to perfect the drawing. It was a fun and interesting challenge nonetheless. Have fun messing around with it! This will also serve as a base for other generative projects I decide to create!
-
+This project is a submission for kangacooks assesment of creating a website in react with a django backend with two apis. I decided to create a simple generative art project recreating joy division's iconic album cover. Usually something like this would be drawn using Javascript but as a challenge to myself and to meet the requirements I decided to create the generative algorithm on the backend and utilize the api to create the drawing and save/display past generations. Because this functionality is not usually done in Python I was only able to create a rough imitation without adding an array of dependencies to perfect the drawing. It was a fun and interesting challenge nonetheless. Have fun messing around with it! This will also serve as a base for other generative projects I decide to create!
 #Frontend
 
 npm install
